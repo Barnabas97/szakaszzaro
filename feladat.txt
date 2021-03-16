@@ -1,0 +1,500 @@
+ls
+node menu.js
+node menuwin.js 
+clear
+node menuwin.js 
+ls
+node menu.js
+node menu.js
+node menuwin.js 
+node menu.js
+ls
+node menu.js
+ls
+node menu.js
+ls
+node menuwin.js 
+node menu.js
+clear
+node menu.js
+node menu.js
+ls
+ls
+node menu.js
+node menu.js
+ls
+node menu.js
+node menu.js
+clear
+git add .
+git commit
+git status
+gut push
+git push
+git push
+git status
+git push
+git pull
+git status
+git add .
+git commit
+node menu.js
+ls
+cd Project/
+cd kappa-cat-man/
+ls
+node menu.js
+git pull
+ls
+node menu.js
+node menu.js
+node menu.js
+node menu.js
+npm install 
+ls
+node menu.js
+git status
+node menu.js
+node index.js 
+ls
+node menu.js
+node menu.js
+ls
+node menu.js
+node menu.js
+asd
+ls
+git pull
+ls
+ls
+cd joprojekt/
+cd kappa
+cd kappa-cat-man/
+node menu.js
+ls
+ls
+node menu.js
+ls
+cd Project/
+cd kappa-cat-man/
+ls
+node menu.js
+ls
+git pull
+git commit
+git add .
+git commit
+git branch
+git pull
+node menu.js
+cd ..
+cd ..
+ls
+cd ..
+ls
+cd Projektbackup/
+ls
+cd kappa-cat-man/
+git status
+cd ..
+cd ..
+ls
+mkdir joprojekt
+cd joprojekt/
+ls
+git clone git@github.com:flowacademyhu/kappa-cat-man.git
+ls
+cd kappa-cat-man/
+npm install
+node menu
+git checkout -b palyadesign
+ls
+git status
+git push
+git push --set-upstream origin palyadesign
+git push
+ls
+git status
+git branch
+node menu
+ls
+és
+ls
+clear
+node menu
+clear
+ls
+node menu
+node menu
+ls
+git add .
+git commit
+ls
+git push
+clear
+node menu
+ls
+ls
+node menu
+ls
+node menu
+asd
+asd
+clear
+node menu
+node menu
+node menu
+node menu
+node menu
+node menu
+node menu
+node menu.js
+node menu.js
+node menu.js
+git add .
+git commit 
+git push
+git status
+git branch
+ls
+git add .
+git commit
+git push
+ls
+node menu.js 
+node menu.js 
+ls
+clear
+la
+ls
+node menu.js 
+ls
+ls
+git add .
+git commit 
+ls
+git push
+clear
+git status
+git status
+ls
+ls
+git status
+git checkout master
+git checkout palyadesign
+git checkout master
+git pull
+git commit
+git branch
+git add .
+git push
+git commit
+ls
+git status
+git pull
+npm install
+node menu.js
+git branch
+git status
+cd ...
+cd ..
+cd kappa-cat-man/
+ls
+git status
+git pull
+node menu.js
+git pull
+git add .
+git commit
+git pull
+node menu.js
+ls
+cd kappa-cat-man/
+npm install 
+git branch
+git branch -a
+ls
+cd joprojekt/
+ls
+cd kappa-cat-man/
+ls
+node menu.js
+ls
+clear
+node menu.js
+node menu.js
+ls
+node menu.js
+ls
+ls
+clear
+ndoe menu.js
+node menu.js
+node menu.js
+node menu.js
+node menu.js
+node menu.js
+node menu.js
+ls
+git status
+git branch
+git add .
+git commit
+git pull
+git status
+ls
+clear
+node menu.js
+node menu.js
+ls
+node menu.js
+git status
+ls
+ls
+cd /
+cd Users/
+cd macbookpro/
+és
+ls
+cd joprojektxd/
+ls
+git clone https://github.com/flowacademyhu/kappa-cat-man.git
+ls
+cd kappa-cat-man/
+ls
+node menu.js 
+node menu.js
+node menu.js
+ls
+node -version
+man node
+node menu.js
+node menu.js
+node menu.js
+node menu.js
+node menu.js
+node mneu.js
+node menu.js
+node menu.js
+node menu.js
+node menu.js
+node:internal/fs/utils:826
+  throw new ERR_INVALID_ARG_TYPE(
+  ^
+TypeError [ERR_INVALID_ARG_TYPE]: The "data" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received type number (2)ls
+ls
+ls
+ls
+clear
+npm cache clean
+npm install --cache
+npm cache clean
+npm cache 
+clear
+clear
+node meu .ks
+node menu.js
+node menu.js
+ls
+ls
+git status
+node menu.js
+node menu.js
+node menu.js
+clear
+node menu.js
+ls
+node menu.js
+node menu.js
+ls
+clear
+node menu.js
+ls
+node menu.js
+ls
+git status
+node menu.js
+ls
+node menu.js
+node menu.js
+ls
+node menu.js
+ls
+node menu.js
+ls
+node menu.js
+node menu.js
+ls
+node menu.js
+ls
+node menu.js
+node menu.js
+ls
+node menu.js
+ls
+node menu.js
+node menu.js
+ls
+node menu.js
+ls
+ls
+cd /
+cd Users/macbookpro/joprojekt/
+git clone https://github.com/flowacademyhu/kappa-cat-man.git
+git status
+cd kappa-cat-man/
+git status
+node menu.js
+npm install
+npm install
+node menu.js
+9;1R
+ls
+npm -i mpg123
+npm install mpg123
+node menu.js
+node -v
+brew install mpg123
+node menu.js
+node menu.js
+node menu.js
+ls
+git status
+clear
+node menu.js
+node menu.js
+node menu.js
+ls
+ls
+clear
+node menu.js
+node menu.js
+clear
+git pull
+git add .
+git commit
+ls
+git pull
+ls
+node menu.js
+ls
+ls
+cd kappa
+cd kappa-cat-man/
+node menu.js
+ls
+ls
+ls
+clear
+git pull
+git status
+git add .
+git commit
+ls
+git pull
+git status
+git pull
+git branch
+git add highscore
+git commit
+ls
+ls
+node menu.js
+git pull
+git status
+git log --oneline
+clear
+git reset
+git reset --hard origin/master
+git status
+node menu.js
+node menu.js
+ls
+node menu.js
+node menu.js
+ls
+node menu.js
+node menu.js
+node menu.js
+ls
+git push
+ls
+git status
+git pull
+git add .
+git commit
+git pull
+git commit
+git pull
+ls
+ls
+la
+ls
+git status
+cd /
+cd Users/macbookpro/
+ls
+cd joprojekt/
+ls
+cd kappa-cat-man/
+ls
+node menu.js
+ls
+git pull
+git commit
+git add .
+git commit
+ls
+git pull
+node menu.js
+ls
+touch szakaszzaro_feladat
+nano szakaszzaro_feladat 
+chmod 755 szakaszzaro_feladat 
+./szakaszzaro_feladat 
+mv szakaszzaro_feladat feladat
+ls
+./feladat
+cp feladat feladat2
+ls
+cat feladat2
+rmdir feladat2
+rm -r feladat2
+ls
+cp feladat feladat2
+ls
+rm feladat2
+ls
+cat feladat
+clear
+cd ..
+cd .
+ls
+cd .
+ls
+cd /
+ls
+cd System/
+ls
+cd ..
+ls
+cd var
+ls
+cd ..
+grep -i /var/log/syslog
+grep -i NetworkManager  /var/log/syslog
+cd var
+cd log
+ls
+cd .
+cd .
+ls
+cd ..
+cd ..
+ls
+clear
+ls
+grep -i NetworkManager  /var/log/syslog >> /Users/macbookpro/feladat 
+cd /
+ls
+cat ~/.bash_history
